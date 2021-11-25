@@ -1,3 +1,5 @@
+@import "custom";
+
 ::-webkit-scrollbar {
   width: 10px;
 }
@@ -14,4 +16,13 @@
 
 ::-webkit-scrollbar-thumb:hover {
   background-color: $primary;
+}
+
+.navbar-brand,
+.navbar-brand img {
+  max-height: $navbar-height;
+}
+
+section {
+  min-height: calc(100vh - #{$navbar-height});
 }

@@ -1,8 +1,8 @@
 // Override variables
-$primary: #d4a276;
-// $light: ;
-// $secondary: ;
-// $dark: ;
+$primary: #ae887b;
+$light: #fffaf7;
+$secondary: #c3c1ab;
+$dark: #5e5946;
 // $success: ;
 // $danger: ;
 // $warning: ;
@@ -10,3 +10,6 @@ $primary: #d4a276;
 
 // Import Bootstrap
 @import "~bootstrap/scss/bootstrap.scss";
+
+// Variables
+$navbar-height: 80px;

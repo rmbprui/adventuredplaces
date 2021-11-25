@@ -5,6 +5,10 @@ import "@fortawesome/fontawesome-free/js/all.min.js";
 // App
 import App from "./App";
 
+// JavaScript
+import "@fortawesome/fontawesome-free/js/all.min.js";
+import "bootstrap/dist/js/bootstrap";
+
 // SCSS
 import "./scss/index.scss";
 

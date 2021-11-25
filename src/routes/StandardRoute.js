@@ -2,7 +2,7 @@ import { Route } from "react-router-dom";
 
 // Components
 import Header from "../components/Header";
-// import Footer from "../components/Footer";
+import Footer from "../components/Footer";
 
 const StandardRoute = ({
   component: Component,
@@ -16,7 +16,7 @@ const StandardRoute = ({
       <main>
         <Route {...rest} render={(props) => <Component {...props} />} />
       </main>
-      {/* {footer && <Footer />} */}
+      {footer && <Footer />}
     </>
   );
 };

@@ -18,11 +18,37 @@
   background-color: $primary;
 }
 
-.navbar-brand,
-.navbar-brand img {
-  max-height: $navbar-height;
+.navbar {
+  transition: background 0.3s;
+  height: $navbar-height;
 }
 
 section {
   min-height: calc(100vh - #{$navbar-height});
+}
+
+.banner {
+  margin-top: -#{$navbar-height};
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.banner-content {
+  text-align: center;
+}
+
+.homepage-banner {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url("../img/porto-wp.jpg");
+}
+
+.btn-top {
+  position: fixed;
+  bottom: 2em;
+  right: 2em;
 }

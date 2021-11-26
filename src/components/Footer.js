@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 const Footer = () => {
   const [scrollPosition, setScrollPosition] = useState(0);
+
   const handleScroll = () => {
     const position = window.pageYOffset;
     setScrollPosition(position);
@@ -17,9 +18,9 @@ const Footer = () => {
   }, []);
 
   return (
-    <footer className="footer bg-dark text-light">
-      <div className="container py-3">
-        <div className="row">
+    <footer className="footer">
+      <div className="container-fluid">
+        <div className="row bg-primary py-3">
           <div className="d-flex justify-content-center gap-3">
             <a className="link-light" href="/">
               <FontAwesomeIcon icon={["fab", "instagram"]} />
@@ -34,10 +35,12 @@ const Footer = () => {
               <FontAwesomeIcon icon={["fas", "envelope"]} />
             </a>
           </div>
+        </div>
+        <div className="row bg-dark text-light py-3">
           <span className="text-center">Adventured Places | &copy; 2021</span>
         </div>
       </div>
-      {scrollPosition && (
+      {scrollPosition > 80 && (
         <button
           className="btn btn-outline-secondary btn-top rounded-circle"
           onClick={() => window.scrollTo(0, 0)}

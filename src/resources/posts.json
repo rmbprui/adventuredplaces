@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Post Title",
+    "date": "25/11/2021",
+    "categories": ["test", "test2"],
+    "author": "Rui",
+    "location": "Braga",
+    "tags": ["test"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet justo pellentesque tortor pretium rutrum. Sed placerat eget magna ac luctus."
+  },
+  {
+    "title": "Post 2",
+    "date": "25/11/2021",
+    "categories": ["test2", "test3"],
+    "author": "Rui",
+    "location": "Braga",
+    "tags": ["test2", "test3"],
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet justo pellentesque tortor pretium rutrum. Sed placerat eget magna ac luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet justo pellentesque tortor pretium rutrum. Sed placerat eget magna ac luctus."
+  }
+]

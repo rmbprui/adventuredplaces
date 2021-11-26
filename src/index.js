@@ -10,7 +10,7 @@ import "@fortawesome/fontawesome-free/js/all.min.js";
 import "bootstrap/dist/js/bootstrap";
 
 // SCSS
-import "./scss/index.scss";
+import "./scss/app.scss";
 
 ReactDOM.render(
   <React.StrictMode>

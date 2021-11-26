@@ -1,38 +1,26 @@
 @import "custom";
 
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-::-webkit-scrollbar-track {
-  background-color: $secondary;
-}
-
-::-webkit-scrollbar-thumb {
-  border: 2px solid $secondary;
-  background-color: $dark;
-  border-radius: 20px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background-color: $primary;
-}
-
 .navbar {
-  transition: background 0.3s;
-  height: $navbar-height;
+  transition: all 0.3s;
+  min-height: $navbar-height;
 }
 
-section {
-  min-height: calc(100vh - #{$navbar-height});
+.nav-item {
+  font-size: large;
+}
+
+.navbar-margin {
+  margin-top: $navbar-height;
 }
 
 .banner {
   margin-top: -#{$navbar-height};
+  height: 100vh;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -42,8 +30,13 @@ section {
   text-align: center;
 }
 
+.banner-footer {
+  position: absolute;
+  bottom: 3em;
+}
+
 .homepage-banner {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
     url("../img/porto-wp.jpg");
 }
 
@@ -51,4 +44,14 @@ section {
   position: fixed;
   bottom: 2em;
   right: 2em;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.anchor {
+  position: relative;
+  top: -#{$navbar-height};
+  visibility: hidden;
 }

@@ -1,12 +1,27 @@
+@font-face {
+  font-family: "Candara";
+  src: url("../resources/candara.ttf") format("truetype");
+}
+
 // Override variables
 $primary: #8d6a5f;
-$light: #fffaf7;
+$light: #e7e5d9;
 $secondary: #c3c1ab;
 $dark: #5e5946;
 // $success: ;
 // $danger: ;
 // $warning: ;
 // $info: ;
+
+$body-bg: $light;
+$headings-color: $dark;
+
+$font-family-sans-serif: "Candara", -apple-system, system-ui, BlinkMacSystemFont,
+  "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-serif: Georgia, "Times New Roman", Times, serif;
+$font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono",
+  "Courier New", monospace;
+$font-family-base: $font-family-sans-serif;
 
 // Import Bootstrap
 @import "~bootstrap/scss/bootstrap.scss";

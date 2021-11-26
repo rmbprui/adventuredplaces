@@ -13,7 +13,7 @@ const StandardRoute = ({
   return (
     <>
       {header && <Header />}
-      <main>
+      <main className={`${header && "navbar-margin"}`}>
         <Route {...rest} render={(props) => <Component {...props} />} />
       </main>
       {footer && <Footer />}

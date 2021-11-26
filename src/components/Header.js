@@ -20,10 +20,10 @@ const Header = () => {
 
   return (
     <nav
-      className={`navbar fixed-top navbar-expand-md navbar-light ${
+      className={`navbar fixed-top navbar-expand-md ${
         scrollPosition < 20 && window.location.pathname === "/"
-          ? "bg-transparent"
-          : "bg-white"
+          ? "navbar-dark bg-transparent"
+          : "navbar-light bg-white"
       }`}
     >
       <div className="container">
@@ -44,12 +44,23 @@ const Header = () => {
         <div className="collapse navbar-collapse" id="navbar-menu">
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
-              <Link className="nav-link" aria-current="page" to="/about/">
+              <Link
+                className={`nav-link${
+                  window.location.pathname.includes("/about") ? " active" : ""
+                }`}
+                aria-current="page"
+                to="/about"
+              >
                 About
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="/contact/">
+              <Link
+                className={`nav-link${
+                  window.location.pathname.includes("/contact") ? " active" : ""
+                }`}
+                to="/contact"
+              >
                 Contact
               </Link>
             </li>

@@ -1,20 +1,24 @@
 [
   {
-    "title": "Post Title",
-    "date": "25/11/2021",
-    "categories": ["test", "test2"],
+    "slug": "how-university-prepares-you-for-placement-year",
+    "title": "How University prepares you for Placement Year",
+    "date": "26/11/2021",
+    "categories": ["university"],
     "author": "Rui",
-    "location": "Braga",
-    "tags": ["test"],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet justo pellentesque tortor pretium rutrum. Sed placerat eget magna ac luctus."
+    "location": "Coventry, United Kingdom",
+    "tags": ["university", "placement"],
+    "summary": "University offers you a lot of different type of support when it comes to Placement year and choosing what to do.",
+    "description": "<p>University offers you a lot of different type of support when it comes to Placement year and choosing what to do.</p><p>In my first year I had a lecture about Internship and what to do or not, I’ve never knew we could go on a placement without even finishing our degree. I’ve felt amazing when they told us we could, it’s like a bubble of fresh air you get.</p>"
   },
   {
-    "title": "Post 2",
-    "date": "25/11/2021",
-    "categories": ["test2", "test3"],
+    "slug": "the-first-week",
+    "title": "The first week",
+    "date": "26/11/2021",
+    "categories": ["erasmus", "university", "travel"],
     "author": "Rui",
-    "location": "Braga",
-    "tags": ["test2", "test3"],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet justo pellentesque tortor pretium rutrum. Sed placerat eget magna ac luctus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin aliquet justo pellentesque tortor pretium rutrum. Sed placerat eget magna ac luctus."
+    "location": "Braga, Portugal",
+    "tags": ["erasmus", "placement", "internship", "portugal"],
+    "summary": "As I told you in my last post, my Erasmus experience is based in Portugal and let me tell you that Portugal was one of my last destination choices for the Erasmus year abroad. It’s not that Portugal isn’t the place to do it, it is, in fact I’m loving every minute since my arrival in January due to Covid-19.",
+    "description": "<p>As I told you in my last post, my Erasmus experience is based in Portugal and let me tell you that Portugal was one of my last destination choices for the Erasmus year abroad. It’s not that Portugal isn’t the place to do it, it is, in fact I’m loving every minute since my arrival in January due to Covid-19.</p><p>I’m a UK student doing an Erasmus in my home country, not the choice of many but the best thing I’ve done since the decision of studying abroad. You might be thinking that wasting the chance of a year abroad at home is a foolish decision but trust me it’s not. As we are all facing this new way of living what’s best that being at home safe with family and have the opportunity to have an Erasmus experience? Nothing!</p><p>In my first week of work I’ve discovered new software, new ways of communicating within the architect’s community and new tips to do an efficient and professional job. I was asked to do an interior renovation with new software, I had heard in the past about AutoCAD and 3Ds Max but never used any of them in a project, it was not easy in the beginning but when you want something, you do it even if it takes you hours of sleep.</p><p>During the weekend I went out to explore the city and discover the new things they had in place. It felt so good coming home and feel like I’ve never left.</p><p>I’ve had an amazing week and couldn’t ask for a better internship start.</p>"
   }
 ]

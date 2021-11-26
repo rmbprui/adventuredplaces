@@ -1,11 +1,10 @@
 const Contact = () => {
   return (
-    <section>
-      <div className="container py-3">
-        <div className="row">
-          <div className="col-12">
-            <h1>Contact</h1>
-          </div>
+    <section className="py-3">
+      <div className="container card">
+        <div className="card-body">
+          <h1 className="card-title">Contact</h1>
+          <hr />
         </div>
       </div>
     </section>

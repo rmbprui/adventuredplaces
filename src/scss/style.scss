@@ -55,3 +55,8 @@
   top: -#{$navbar-height};
   visibility: hidden;
 }
+
+.nav-link.active {
+  transition: all 0.3s;
+  border-bottom: 1px solid $primary;
+}

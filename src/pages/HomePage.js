@@ -9,7 +9,13 @@ import posts from "../resources/posts.json";
 const HomePage = () => {
   return (
     <>
-      <div className="banner homepage-banner">
+      <div
+        className="banner homepage-banner"
+        style={{
+          backgroundImage:
+            "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/img/porto-wp.jpg')",
+        }}
+      >
         <div className="banner-content text-light">
           <FontAwesomeIcon icon={["fas", "map-marker-alt"]} size="3x" />
           <h1 className="text-light">Adventured Places</h1>

@@ -18,6 +18,10 @@ const Header = () => {
     };
   }, []);
 
+  const onNavigation = () => {
+    document.querySelector(".collapse").classList.remove("show");
+  };
+
   return (
     <nav
       className={`navbar fixed-top navbar-expand-md ${
@@ -27,7 +31,7 @@ const Header = () => {
       }`}
     >
       <div className="container">
-        <Link className="navbar-brand" to="/">
+        <Link className="navbar-brand" to="/" onClick={onNavigation}>
           Adventured Places
         </Link>
         <button
@@ -50,6 +54,7 @@ const Header = () => {
                 }`}
                 aria-current="page"
                 to="/about"
+                onClick={onNavigation}
               >
                 About
               </Link>
@@ -60,6 +65,7 @@ const Header = () => {
                   window.location.pathname.includes("/contact") ? " active" : ""
                 }`}
                 to="/contact"
+                onClick={onNavigation}
               >
                 Contact
               </Link>

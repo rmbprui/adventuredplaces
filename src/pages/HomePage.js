@@ -32,7 +32,7 @@ const HomePage = () => {
       <section>
         <div className="container py-5">
           <div className="row">
-            {posts && posts.map((post) => <PostCard post={post} />)}
+            {posts && posts.reverse().map((post) => <PostCard post={post} />)}
           </div>
         </div>
       </section>

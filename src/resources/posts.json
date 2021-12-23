@@ -1,24 +1,32 @@
 [
   {
-    "slug": "how-university-prepares-you-for-placement-year",
-    "title": "How University prepares you for Placement Year",
+    "slug": "becoming-an-international-student",
+    "title": "Becoming an International student",
     "date": "22/11/2021",
+    "gallery": ["blog1.jpg", "blog3.jpg"],
+    "location": "Coventry, United Kingdom",
+    "tags": ["university", "placement", "uk"],
+    "summary": "I've always had the dream to study in the UK. A country full of opportunities, different cultures and places to discover.",
+    "description": "<p>I've always had the dream to study in the UK. A country full of opportunities, different cultures and places to discover.</p><p>When I discovered that I had the chance to enrol on an university in the UK it felt like my dream would finally happen. From the process of sending applications, to creating a portfolio and having interviews it felt like it was taking forever until the offer from the university came.</p><p>The day it did was magical as I had been offered an offer!</p><p>The moment to enter on the new adventure began so I packed my bags and onto the new journey I go!</p><p>From meeting new people, to discovering new cities and learning a whole bunch of new words the dream started!</p><p>It was amazing, all the support, the new learning methods and the people I had the chance to meet changed me as a person and my perspective on all these things.</p><p>I'm very thankful to have the chance to live an old dream I always had!</p>"
+  },
+  {
+    "slug": "how-university-prepares-you-for-placement",
+    "title": "How University prepares you for Placement",
+    "date": "29/11/2021",
     "gallery": ["blog3.jpg", "blog1.jpg"],
-    "categories": ["university"],
     "location": "Coventry, United Kingdom",
     "tags": ["university", "placement"],
     "summary": "University offers you a lot of different type of support when it comes to Placement year and choosing what to do.",
-    "description": "<p>University offers you a lot of different type of support when it comes to Placement year and choosing what to do.</p><p>In my first year I had a lecture about Internship and what to do or not, I’ve never knew we could go on a placement without even finishing our degree. I’ve felt amazing when they told us we could, it’s like a bubble of fresh air you get.</p>"
+    "description": "<p>University offers you a lot of different types of support when it comes to Placement and all the challenges it creates.</p><p>In my first year we were briefed on what to do and what not to do at an Internship, this was where I found out that you could participate in a placement year before finishing the course. It felt amazing knowing we had that option and I knew it was perfect for me.</p><p>The support you get in university is amazing, from mental support to help on the application process they make sure you are ready to start and finish your Placement. They are also there throughout the year to provide any kind of support. University offers you a week of workshops and lectures on how to apply and what to do or not if eventually going into an internship.</p><p>We were offered a specialised week on Placement with workshops and lectures on different topics like where to find opportunities, how to build a good CV, et cetera...</p><p>Going on placement right before final year has shown to improve your grades and help in deciding and managing your final year project. You could see this from University alumni who had undertaken placement before final year that would show better results overall.</p><p>It's up to you if you do take the opportunity or not but it's an opportunity that for most comes with endless benefits. With all the support and encouragement you get from all the University staff the process becomes fun and enthusiastic.</p>"
   },
   {
     "slug": "the-first-week",
     "title": "The first week",
-    "date": "22/11/2021",
+    "date": "06/12/2021",
     "gallery": ["blog4.jpg", "blog6.jpg", "blog5.jpg"],
-    "categories": ["erasmus", "university", "travel"],
     "location": "Braga, Portugal",
-    "tags": ["erasmus", "placement", "internship", "portugal"],
-    "summary": "As I told you in my last post, my Erasmus experience is based in Portugal and let me tell you that Portugal was one of my last destination choices for the Erasmus year abroad. It’s not that Portugal isn’t the place to do it, it is, in fact I’m loving every minute since my arrival in January due to Covid-19.",
-    "description": "<p>As I told you in my last post, my Erasmus experience is based in Portugal and let me tell you that Portugal was one of my last destination choices for the Erasmus year abroad. It’s not that Portugal isn’t the place to do it, it is, in fact I’m loving every minute since my arrival in January due to Covid-19.</p><p>I’m a UK student doing an Erasmus in my home country, not the choice of many but the best thing I’ve done since the decision of studying abroad. You might be thinking that wasting the chance of a year abroad at home is a foolish decision but trust me it’s not. As we are all facing this new way of living what’s best that being at home safe with family and have the opportunity to have an Erasmus experience? Nothing!</p><p>In my first week of work I’ve discovered new software, new ways of communicating within the architect’s community and new tips to do an efficient and professional job. I was asked to do an interior renovation with new software, I had heard in the past about AutoCAD and 3Ds Max but never used any of them in a project, it was not easy in the beginning but when you want something, you do it even if it takes you hours of sleep.</p><p>During the weekend I went out to explore the city and discover the new things they had in place. It felt so good coming home and feel like I’ve never left.</p><p>I’ve had an amazing week and couldn’t ask for a better internship start.</p>"
+    "tags": ["erasmus", "placement", "university", "portugal", "travel"],
+    "summary": "I got an internship in Portugal with Erasmus. I would never think about Portugal as my destination for placement abroad.",
+    "description": "<p>I got an internship in Portugal with Erasmus.</p><p>I would never think about Portugal as my destination for placement abroad. It's not that Portugal isn't the place to do it, in fact I'm loving my experience so far, it just made sense when factoring in all the difficulties that 2020 and COVID 19 brought to everyone.</p><p>I'm a UK student doing an Erasmus in my home country, not the choice of many but I am happy with my decision. It might seem like a waste not using this opportunity to travel to a different country but as we all face this sudden lifestyle change what's best than being at home safe with family? And still have the opportunity to grow professionally!</p><p>In my first week of work I've discovered new software, new ways of communicating within the architect's community and new tips to do an efficient and professional job. I was asked to renovate an interior with new software, AutoCAD. I had heard about AutoCAD and 3Ds Max in the past but never used any of them in a project, it was not easy in the beginning but when you want something, you do it even if it takes you some sleep hours.</p><p>During the weekend I went out to explore the city and discover what was new and what was different. It felt so good coming home, and I honestly feel like I never left.</p><p>I've had an amazing week and couldn't ask for a better internship induction.</p>"
   }
 ]

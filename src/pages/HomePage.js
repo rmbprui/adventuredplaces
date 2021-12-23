@@ -18,7 +18,7 @@ const HomePage = () => {
       >
         <div className="banner-content text-light">
           <FontAwesomeIcon icon={["fas", "map-marker-alt"]} size="3x" />
-          <h1 className="text-light">Adventured Places</h1>
+          <h1 className="text-light display-2">Adventured Places</h1>
         </div>
         <div className="banner-footer text-light">
           <a class="scroll-down pointer" href="#posts">

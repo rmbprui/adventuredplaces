@@ -16,7 +16,7 @@ const Post = ({ match }) => {
   return (
     <>
       <section className="py-3">
-        <div className="container my-4">
+        <div className="container mb-4">
           <div className="card border-0">
             <div className="card-body">
               <div className="text-center">
@@ -60,7 +60,7 @@ const Post = ({ match }) => {
           </div>
         </div>
         {post.gallery.length > 1 && (
-          <div className="container my-4">
+          <div className="container">
             <div className="card border-0">
               <div className="card-body">
                 <div className="d-flex gap-3">

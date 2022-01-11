@@ -5,13 +5,15 @@ import PostCard from "./PostCard";
 import posts from "../resources/posts.json";
 
 const PostsList = () => {
+  const postsList = posts && posts.reverse();
+
   return (
     <>
       <span id="posts" className="anchor"></span>
       <section>
         <div className="container py-5">
           <div className="row">
-            {posts && posts.reverse().map((post) => <PostCard post={post} />)}
+            {postsList && postsList.map((post) => <PostCard post={post} />)}
           </div>
         </div>
       </section>

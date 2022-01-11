@@ -54,13 +54,13 @@ I'm very thankful to have the chance to live an old dream I always had!
 
 13/12/2021
 
-I was assigned a project for the store. One of the most intensive and challenging projects I’ve ever done in a professional way. I had to design a client's entire house!
+I was assigned a project for the store. One of the most intensive and challenging projects I've ever done in a professional way. I had to design a client's entire house!
 
 The main idea of the project was to give the new home a comfortable and stylish interior, the client wanted a simple but quite unique design.
 
 For the project development I used AutoCAD for the plans and Enscape and Photoshop for some renderings!
 
-It’s always a challenge working on professional projects for the first time, you learn new things, new working methods and you overcome difficulties that you don't have on personal projects. You need to adapt and not have fear of change.
+It's always a challenge working on professional projects for the first time, you learn new things, new working methods and you overcome difficulties that you don't have on personal projects. You need to adapt and not have fear of change.
 
 But when your on an internship you are there to learn with your mistakes, get up and do better!
 
@@ -70,11 +70,11 @@ It has been a wonderful experience.
 
 20/12/2021
 
-Working on an interior design store, I’m not only learning how to design on a professional level but also learning how to manage a store! With that comes managing deliveries, tracking inventory and decorating the store.
+Working on an interior design store, I'm not only learning how to design on a professional level but also learning how to manage a store! With that comes managing deliveries, tracking inventory and decorating the store.
 
 The Christmas time is here and we need to prepare ourselves for the most wonderful time of the year 🎄
 
-It’s amazing seeing that everyone wants to be involved in decorating the store.
+It's amazing seeing that everyone wants to be involved in decorating the store.
 
 Our plans began by choosing the theme and the colours. We chose red and white for the colours and the theme was Winter Wonderland. After that we began developing mood boards and decorating, and the store became a magical winter place that I loved to enter every day!
 
@@ -88,8 +88,8 @@ Finally the Christmas week was here!
 
 The city was covered in lights and Christmas magic, it was wonderful seeing all the places decorated for this wonderful time.
 
-Family got reunited, everybody tested for Covid and we had the opportunity to celebrate Christmas and New Year’s all together. It was an amazing time spending Christmas at home with the family!
+Family got reunited, everybody tested for Covid and we had the opportunity to celebrate Christmas and New Year's all together. It was an amazing time spending Christmas at home with the family!
 
 After working during Christmas time you learn how everything is planned and you get this idea of how things are actually done behind the scenes.
 
-Having this experience made me more mature and independent, 2 things I’m grateful for!
+Having this experience made me more mature and independent, 2 things I'm grateful for!

@@ -96,7 +96,6 @@ const Footer = () => {
               </p>
             </div>
             <div className="col-md-5 mb-4">
-              <h6 className="text-uppercase fw-bold mb-4">Contact</h6>
               <form onSubmit={onSubmit}>
                 <div className="mb-2">
                   <div className="d-flex gap-3">
@@ -143,7 +142,7 @@ const Footer = () => {
       </div>
       <div className="container-fluid">
         <div className="row bg-primary text-light py-3">
-          <span className="text-center">Adventured Places &copy; 2021</span>
+          <span className="text-center">Adventured Places &copy; 2022</span>
         </div>
       </div>
       {scrollPosition > 80 && (

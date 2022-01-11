@@ -1,10 +1,7 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // Components
-import PostCard from "../components/PostCard";
-
-// Files
-import posts from "../resources/posts.json";
+import PostsList from "../components/PostsList";
 
 const HomePage = () => {
   return (
@@ -28,14 +25,7 @@ const HomePage = () => {
           </a>
         </div>
       </div>
-      <span id="posts" className="anchor"></span>
-      <section>
-        <div className="container py-5">
-          <div className="row">
-            {posts && posts.reverse().map((post) => <PostCard post={post} />)}
-          </div>
-        </div>
-      </section>
+      <PostsList />
     </>
   );
 };

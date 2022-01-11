@@ -4,9 +4,9 @@ import PostCard from "./PostCard";
 // Files
 import posts from "../resources/posts.json";
 
-const PostsList = () => {
-  const postsList = posts && posts.reverse();
+const postsList = posts && posts.reverse();
 
+const PostsList = () => {
   return (
     <>
       <span id="posts" className="anchor"></span>

@@ -11,9 +11,16 @@ const About = () => {
                 <img src={`../img/blog2.jpg`} alt="About me" />
               </div>
               <h2>Hello and Welcome to my blog!</h2>
-              <p className="lead">
+              <p className="lead fst-italic">
                 My name is Renata, I'm Portuguese, 20 years old and studying BA
                 Interior Architecture and Design at Coventry University, UK.
+              </p>
+              <p>
+                I have decided to undertake a placement year, as part of my
+                studies to help me gain experience and I'm currently doing an
+                internship as an Interior Architect & Showroom Assistant at Good
+                In - Interior Design, located in the vibrant and wonderful city
+                of Braga, Portugal.
               </p>
               <p>
                 My biggest passions besides design are travelling, exploring
@@ -22,14 +29,7 @@ const About = () => {
                 always sneaking into a nice cinema when I get the chance.
               </p>
               <p>
-                I have decided to undertake a placement year, as part of my
-                studies to help me gain experience and I’m currently doing an
-                internship as an Interior Architect & Showroom Assistant at Good
-                In - Interior Design, located in the vibrant and wonderful city
-                of Braga, Portugal.
-              </p>
-              <p>
-                I’ve decided to create this blog as a way of documenting my
+                I've decided to create this blog as a way of documenting my
                 first professional experience as an Interior Architect but also
                 to share some of the adventures that might happen along the way
                 in the Erasmus year abroad.

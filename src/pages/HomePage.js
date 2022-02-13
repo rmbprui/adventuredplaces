@@ -10,7 +10,7 @@ const HomePage = () => {
         className="banner homepage-banner"
         style={{
           backgroundImage:
-            "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/img/porto-wp.jpg')",
+            "linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/img/banner.jpg')",
         }}
       >
         <div className="banner-content text-light">

@@ -22,34 +22,48 @@ const Contact = () => {
             <hr />
             <div className="row text-md-center">
               <h4>Feel free to contact me on any of my socials!</h4>
-              <div className="col-12 col-md-6">
-                <a
-                  href="https://www.instagram.com/nc_intdesign/"
-                  className="text-decoration-none"
-                  rel="noreferrer"
-                  target="_blank"
-                >
+            </div>
+          </div>
+        </div>
+        <div className="row text-md-center">
+          <div className="col-12 col-md-6">
+            <div className="card border-0 mb-3">
+              <a
+                href="https://www.instagram.com/nc_intdesign/"
+                className="text-decoration-none"
+                rel="noreferrer"
+                target="_blank"
+              >
+                <div className="d-flex justify-content-center flex-column">
                   <FontAwesomeIcon
                     icon={["fab", "instagram"]}
-                    className="me-2"
+                    size="10x"
+                    className="m-auto"
                   />
-                  @nc_intdesign
-                </a>
-              </div>
-              <div className="col-12 col-md-6">
-                <a
-                  href="mailto:renatacunhaiad@gmail.com"
-                  className="text-decoration-none"
-                  rel="noreferrer"
-                  target="_blank"
-                >
+                  <span className="mb-2 text-center">@nc_intdesign</span>
+                </div>
+              </a>
+            </div>
+          </div>
+          <div className="col-12 col-md-6">
+            <div className="card border-0 mb-3">
+              <a
+                href="mailto:renatacunhaiad@gmail.com"
+                className="text-decoration-none"
+                rel="noreferrer"
+                target="_blank"
+              >
+                <div className="d-flex justify-content-center flex-column">
                   <FontAwesomeIcon
                     icon={["fas", "envelope"]}
-                    className="me-2"
+                    size="10x"
+                    className="m-auto"
                   />
-                  renatacunhaiad@gmail.com
-                </a>
-              </div>
+                  <span className="mb-2 text-center">
+                    renatacunhaiad@gmail.com
+                  </span>
+                </div>
+              </a>
             </div>
           </div>
         </div>

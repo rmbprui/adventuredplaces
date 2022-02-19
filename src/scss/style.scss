@@ -73,18 +73,19 @@
   box-shadow: $box-shadow;
 }
 
+.card-img-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
 .post-img {
   display: flex;
   align-items: center;
   justify-content: center;
   max-height: 75vh;
   overflow: hidden;
-}
-
-.post-img img {
-  max-height: 100%;
-  width: auto;
-  max-width: 100%;
 }
 
 .post-content:first-child::first-letter {

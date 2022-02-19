@@ -3,6 +3,7 @@ import { Helmet } from "react-helmet";
 
 // Components
 import ShareIcons from "../components/ShareIcons";
+import Image from "../components/Image";
 
 // Files
 import posts from "../resources/posts.json";
@@ -46,9 +47,15 @@ const Post = ({ match }) => {
                 </div>
               </div>
               <hr />
-              <div className="post-img float-end ps-2 w-50">
-                <img src={`../img/${post.gallery[0]}`} alt={post.title} />
-              </div>
+              {post.gallery[0] && (
+                <div className="post-img float-end ps-3 pb-3 w-50">
+                  <Image
+                    src={`../img/${post.gallery[0]}`}
+                    alt={post.title}
+                    className="img-fluid"
+                  />
+                </div>
+              )}
               <div className="card-text">
                 <div
                   className="post-content"
@@ -69,14 +76,20 @@ const Post = ({ match }) => {
           <div className="container">
             <div className="card border-0">
               <div className="card-body">
-                <div className="d-flex gap-3">
-                  <div className="post-img w-50">
-                    <img src={`../img/${post.gallery[1]}`} alt={post.title} />
-                  </div>
-                  {post.gallery[2] && (
-                    <div className="post-img w-50">
-                      <img src={`../img/${post.gallery[2]}`} alt={post.title} />
-                    </div>
+                <div className="row justify-content-center align-items-center">
+                  {post.gallery.map(
+                    (image, i) =>
+                      i !== 0 && (
+                        <div className="col-12 col-md-6 p-3">
+                          <div className="post-img">
+                            <Image
+                              src={`../img/${image}`}
+                              alt={post.title}
+                              className="img-fluid"
+                            />
+                          </div>
+                        </div>
+                      )
                   )}
                 </div>
               </div>

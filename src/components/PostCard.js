@@ -1,26 +1,23 @@
-import { Link, useHistory } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 // Components
 import ShareIcons from "./ShareIcons";
+import Image from "./Image";
 
 const PostCard = ({ post }) => {
-  const history = useHistory();
-
   return (
     <div className="col-12 col-md-6 mb-3">
-      <div
-        className="post-card card border-0 h-100"
-        onClick={() => history.push(`/posts/${post.slug}`)}
-      >
+      <div className="post-card card border-0 h-100">
         <div className="px-4 pt-4">
           <Link to={`/posts/${post.slug}`}>
-            <div
-              className="card-img-top"
-              style={{
-                backgroundImage: `url(/img/${post.gallery[0]})`,
-              }}
-            ></div>
+            <div className="card-img-top">
+              <Image
+                src={`/img/${post.gallery[0]}`}
+                alt={post.title}
+                className="img-fluid"
+              />
+            </div>
           </Link>
         </div>
         <div className="card-body px-4">

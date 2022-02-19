@@ -1,3 +1,6 @@
+// Components
+import Image from "../components/Image";
+
 const About = () => {
   return (
     <section className="py-3">
@@ -8,7 +11,11 @@ const About = () => {
             <hr />
             <div className="card-text">
               <div className="post-img float-end ps-2 w-50">
-                <img src={`../img/blog2.jpg`} alt="About me" />
+                <Image
+                  src={`../img/blog2.jpg`}
+                  alt="About me"
+                  title="About me"
+                />
               </div>
               <h2>Hello and Welcome to my blog!</h2>
               <p className="lead fst-italic">

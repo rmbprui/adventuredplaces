@@ -10,11 +10,12 @@ const About = () => {
             <h1 className="card-title">About me</h1>
             <hr />
             <div className="card-text">
-              <div className="post-img float-end ps-2 w-50">
+              <div className="post-img float-end ps-3 w-50">
                 <Image
                   src={`../img/blog2.jpg`}
                   alt="About me"
                   title="About me"
+                  className="img-fluid"
                 />
               </div>
               <h2>Hello and Welcome to my blog!</h2>

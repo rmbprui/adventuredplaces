@@ -18,7 +18,7 @@ const HomePage = () => {
           <h1 className="text-light display-2">Adventured Places</h1>
         </div>
         <div className="banner-footer text-light">
-          <a class="scroll-down pointer" href="#posts">
+          <a className="scroll-down pointer" href="#posts">
             <span></span>
             <span></span>
             <span></span>

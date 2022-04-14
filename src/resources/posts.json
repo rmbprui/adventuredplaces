@@ -47,7 +47,7 @@
     "location": "Braga, Portugal",
     "tags": ["christmas", "interior", "design", "placement"],
     "summary": "Working on an interior design store, I'm not only learning how to design on a professional level but also learning how to manage a store! With that comes managing deliveries, tracking inventory and decorating the store.",
-    "description": "<p>Working on an interior design store, I'm not only learning how to design on a professional level but also learning how to manage a store! With that comes managing deliveries, tracking inventory and decorating the store.</p><p>The Christmas time is here and we need to prepare ourselves for the most wonderful time of the year 🎄</p><p>It's amazing seeing that everyone wants to be involved in decorating the store.</p><p>Our plans began by choosing the theme and the colours. We chose red and white for the colours and the theme was Winter Wonderland. After that we began developing mood boards and decorating, and the store became a magical winter place that I loved to enter every day!</p><p>All the images available at <a href='https://www.instagram.com/nc_intdesign/' className='text-decoration-none' rel='noreferrer' target='_blank'>@goodin_interiordesign<i class='fab fa-instagram ms-2'></i></a></p>"
+    "description": "<p>Working on an interior design store, I'm not only learning how to design on a professional level but also learning how to manage a store! With that comes managing deliveries, tracking inventory and decorating the store.</p><p>The Christmas time is here and we need to prepare ourselves for the most wonderful time of the year 🎄</p><p>It's amazing seeing that everyone wants to be involved in decorating the store.</p><p>Our plans began by choosing the theme and the colours. We chose red and white for the colours and the theme was Winter Wonderland. After that we began developing mood boards and decorating, and the store became a magical winter place that I loved to enter every day!</p><p>All the images available at <a href='https://www.instagram.com/nc_intdesign/' className='text-decoration-none' rel='noreferrer' target='_blank'>@goodin_interiordesign<i className='fab fa-instagram ms-2'></i></a></p>"
   },
   {
     "slug": "festive-days",
@@ -103,7 +103,7 @@
     "slug": "getting-ready-for-uni",
     "title": "How I'm getting ready for the last year at Uni",
     "date": "08/02/2022",
-    "gallery": [],
+    "gallery": ["blog24.jpg"],
     "location": "Coventry, United Kingdom",
     "tags": ["studies", "placement", "university", "work"],
     "summary": "How is the Internship helping me and changing me for the last year of studies?",
@@ -118,5 +118,55 @@
     "tags": ["travel", "valentines", "work"],
     "summary": "From Your Valentine",
     "description": "<p>Here in the showroom, we live every day and season we have in the year, and as you know February is the month of love.</p><p>At this time we changed the decoration of the store to white and red and created an environment inspired by love! Music and Chocolate never fail, we also had discounts for our loving birds out there!</p><p>As the store was covered in this lovely spirit my boyfriend and I took the inspiration and went to discover a lovely place near Braga, Ponte de Lima! a city full of history and romantic landscapes.</p>"
+  },
+  {
+    "slug": "learning-how-other-people-work",
+    "title": "Learning how other people work",
+    "date": "20/02/2022",
+    "gallery": ["blog25.jpg"],
+    "location": "Braga, Portugal",
+    "tags": ["GoodIn", "design", "placement"],
+    "summary": "I got the opportunity to see how other people in the company work.",
+    "description": "<p>I got the opportunity to see how other people in the company work! Although everyone uses the same materials in terms of software people have different ways of working.</p><p>Our company has 2 places that combined are GoodIn, the showroom and a head office both in Braga but with different locations in the city. We do have another architect in the company head office, not working alongside us here in the showroom, but working for GoodIn.</p><p>I've finally got the chance to see how she works and what type of work she has to deliver and it's kinda interesting how in the same company different people in different places can do opposite things. As we in the showroom are more focused on residential and living interiors she in the head office does more of commercial ones, like hotels and shopping stores.</p><p>She does work with the same software that we do but in terms of work, she needs to develop more organized and clean drawings and work, as we are talking about 10 or 15 rooms instead of 1 or 2! The work is basically the same draw the plans, do the elevations and details, mood board to propose the project to the client and then propose the project.</p><p>Although she works with commercial projects, sometimes she has to work on residential ones as well and it was interesting seeing how she develops the same things we do but with a completely different approach.</p><p>As I was taught here in the showroom we firstly are e-mailed by the client with what he wants and needs for the project based on that we develop a presentation with different pictures and ideas and give them a call to come and pop us a visit in the store and have a little chat about the project involved, as we have space and the right materials to do it.</p><p>In the head office the process is a little different as in there we have everyone working as financial people, carpenters, architects and the boss office so the client's approach is different as the architect calls them on a zoom meeting and they discuss everything about the project. After that, the process is the same draw everything and send it to the client for approval! Then if it's approved send everything to production and wait to be finished to be instaled and decorated!</p><p>It was a different week dealing with the first part of the process in a different way but I really liked how it felt, it was good to pop out of my comfort zone and experience new things.</p>"
+  },
+  {
+    "slug": "creating-and-designing-a-kitchen",
+    "title": "Creating and designing a kitchen",
+    "date": "27/02/2022",
+    "gallery": ["blog26.jpg", "blog27.jpg", "blog28.jpg"],
+    "location": "Braga, Portugal",
+    "tags": ["kitchen", "design", "placement"],
+    "summary": "I got another project!",
+    "description": "<p>I finally got another project!</p><p>Here at GoodIn we are experts in kitchen design and a lot of people search our work for kitchen renovations. After weeks of learning how to do them, I've finally got the chance to create and design one.</p><p>Although it is a small kitchen we all have to start somewhere, the client had a vision of what she wanted so it was easier to develop the presentation.</p><p>As I explained in the later post we do a presentation to propose the project so my adventure starts there, I had to search out images that would reference what the client wanted and what I could do to modify and make her dream kitchen, after that the whole presentation was developed and I gave her a call to come to the showroom get to know her a little better and explain her the project, as we don't have many covid restrictions we can invite the clients into the showroom, offer a coffee and have a good talk.</p><p>The client was happy about her project and the solutions I had in mind for her kitchen and gave a big YES to my ideas! Then I started to develop her budget which was a great success and invited her again into the showroom so we could choose and discuss the right materials for her space and needs and everything went very professionally and amazing.</p><p>After that, her kitchen went to production and we have an estimated time of 3 months in production so I won't be having the final photos of the project! Which is a shame.</p><p>But overall I'm satisfied how everything went and how I got the chance to interact with a client and develop a work!</p>"
+  },
+  {
+    "slug": "international-womans-day",
+    "title": "It's International Woman's Day",
+    "date": "08/03/2022",
+    "gallery": ["blog29.jpg", "blog30.jpg", "blog31.jpg"],
+    "location": "Braga, Portugal",
+    "tags": ["girlpower", "placement"],
+    "summary": "International Woman's Day is a day of giving voice!",
+    "description": "<p>It's International Women's Day and just like the other festive days we've decorated the showroom to fit the purpose. It's all pink and lovely! Imagine having a gender equal world! A world free of bias, stereotypes and discrimination.</p><p>In 1945, the Charter of the United Nations became the first international agreement to affirm the principle of equality between women and men International Women’s Day first emerged from the activities of labour movements at the turn of the twentieth century across North America and Europe.</p><p>International Women's Day is an occasion to celebrate the progress made towards achieving gender equality and women's empowerment but also to critically reflect on those accomplishments and strive for a greater momentum towards gender equality worldwide. It is a day to recognize the extraordinary acts of women and to stand together, as a united force, to advance gender equality around the world.</p><p>Therefore we want to continue our ancestors' fight and continue to give voice to the problems involving gender equality, which is something we need to teach not to be ashamed of.</p><p>So speak up if you are not happy! We stand with you.</p><p>Information taken from: https://www.internationalwomensday.com/ & https://en.unesco.org/commemorations/womenday</p>"
+  },
+  {
+    "slug": "starting-my-journey-in-the-realistic-renders",
+    "title": "Starting my journey in the Realistic Renders",
+    "date": "14/03/2022",
+    "gallery": ["blog32.jpg"],
+    "location": "Braga, Portugal",
+    "tags": ["3d", "render", "placement"],
+    "summary": "The Real Deal In The 3D World",
+    "description": "<p>The 3D world has more to offer than we can ever imagine!</p><p>I met a new friend in the area, you will read much about her in the coming posts, She told me to watch a course that would be happening online for free with huge power onto the rendering side of interior architecture! So I search it and I was amazed when I first saw Ander Alencar, a Brazilian 3D artist, renders they are just like normal pictures as he says pictures that are created in the technical world. I will leave one of his renders and you can check that one and many more on his Instagram: @anderalencar!</p><p>Before starting to explain how everything went let me explain to you what 3D renders are, 3D rendering is the process of turning information from a 3D model into a 2D image you probably came across one of these when seeing cartoons or flipping through a magazine! In fact, this type of image is becoming very popular for people that work with visual stuff, just like us interior architects that have to sell an idea so making that come to life helps us a lot!</p><p>Onto the course week we go:</p><p>The day to start the course came and let me tell you I wasn't too excited at first because my experience with 3D is not the best you learn to work with it in university and stuff but when you enter the professional world and everything is so professionally and carefully made you start to think that maybe investing in your career is the best option so that was what I did. As soon as the class started my mind changed.</p><p>The first class was a theoretical one where we learned about the renders, how can you make them look good and fresh, the different moods that can be used, colours and lens of a photographic cam so you can take pictures of your 3D drawing and make it a 2D image; when you hear this you think, why will I be needing that? Trust me you will, your renders will change completely if you learn about these things, this is the stuff you need to be investing in knowing what's behind.</p><p>The course went smoothly and the following lectures were more about how to sell the drawings, how to edit them and choose your target audience. This last point is a crucial one because choosing your audience will be helping you save a lot of time!</p><p>Although I had to make an effort to attend the course it was a valuable one and I completely advise you to do one as well.</p>"
+  },
+  {
+    "slug": "spring-is-here",
+    "title": "Spring Is Here!",
+    "date": "21/03/2022",
+    "gallery": ["blog33.jpg"],
+    "location": "Braga, Portugal",
+    "tags": ["spring", "placement"],
+    "summary": "The Flowers Start to Bloom and everything Smells Amazing",
+    "description": "<p>Spring is here! Time to change the showroom again.</p><p>Lovely colours are brought in and the energy and mood of the store change as everything gets more colourful.</p><p>It's the time to be careful with allergies and the sun starts to set later, my favourite part of the day as I don't like it that much of the nighttime. Let me tell you that changing all of the flower arrangements was a challenge but in the end I made it happen and everything looks very cute, the pink bed stayed because spring is all about colour!</p><p>Spring is the time to start thinking of new chapters and new things to learn and investigate! That said I met Ana, the girl I talked to in the last post she is just the sweetest person and always ready to help others.</p><p>She is in the industry for 5 years now and knows everything about textures, colours, materials and renders so who's better than her to explain to me the new things I want to learn?</p><p>I asked her kindly if she would like to help me grow in the design world and she agreed immediately so my new journey begins.</p><p>As I'm embracing the spring new beginnings vibe I want to be investing in myself in becoming a better designer and architect!</p><p>I've started by learning all the materials an architect needs to know, going back again to my uni notes and asking Ana to help me out as well made me realise that uni gives us all we need we just need to be smarter enough to understand it!</p>"
   }
 ]

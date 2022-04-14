@@ -5,6 +5,7 @@ import StandardRoute from "./routes/StandardRoute";
 
 // Pages
 import HomePage from "./pages/HomePage";
+import ModelPage from "./pages/ModelPage";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import Posts from "./pages/Posts";
@@ -20,6 +21,11 @@ const App = () => {
           path="/"
           title="Adventured Places"
           component={HomePage}
+        />
+        <StandardRoute
+          path="/model-test"
+          title="Adventured Places | Model"
+          component={ModelPage}
         />
         <StandardRoute
           path="/about"

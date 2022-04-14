@@ -13,7 +13,8 @@ const PostsList = () => {
       <section>
         <div className="container py-5">
           <div className="row">
-            {postsList && postsList.map((post) => <PostCard post={post} />)}
+            {postsList &&
+              postsList.map((post, i) => <PostCard key={i} post={post} />)}
           </div>
         </div>
       </section>

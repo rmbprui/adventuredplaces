@@ -43,8 +43,8 @@ const PostCard = ({ post }) => {
             {post.summary.length > 150 && "..."}
           </div>
           <div className="card-text row justify-content-center px-2 py-2">
-            {post.tags.map((tag) => (
-              <div className="col-4 col-md-4 col-lg-3 text-center">
+            {post.tags.map((tag, i) => (
+              <div key={i} className="col-4 col-md-4 col-lg-3 text-center">
                 <span className="text-truncate text-muted">#{tag}</span>
               </div>
             ))}

@@ -4,9 +4,9 @@ const ModelPage = () => {
   return (
     <section className="py-3">
       <Model
-        camera={{ position: [0, 0, 0] }}
+        camera={{ position: [0, 0, 10] }}
         style={{ height: 600 }}
-        model="./models/modelo.glb"
+        model="./models/react.glb"
       />
     </section>
   );

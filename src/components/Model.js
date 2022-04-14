@@ -24,7 +24,7 @@ const Scene = ({
 
   return (
     <>
-      <OrbitControls reverseOrbit={true} enablePan={false} enableZoom={true} />
+      <OrbitControls enablePan={false} enableZoom={true} />
       <ambientLight color="#555" />
       <mesh ref={meshRef}>
         <pointLight
